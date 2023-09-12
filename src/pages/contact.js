@@ -22,7 +22,7 @@ const ContactPage = () => {
                         image="./images/contact/1.png"
                     />
                     <ContactContainer />
-                    <NewsletterArea />
+                    {/* <NewsletterArea /> */}
                     <Footer />
                     <ScrollToTop />
                 </div>

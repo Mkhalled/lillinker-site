@@ -60,7 +60,7 @@ const MobileMenu = ({ show, onClose }) => {
                                     About
                                 </NavLink>
                             </li>
-                            <li>
+                            {/* <li>
                                 <NavLink
                                     to={process.env.PUBLIC_URL + "/service"}
                                 >
@@ -170,7 +170,7 @@ const MobileMenu = ({ show, onClose }) => {
                                         </NavLink>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> */}
                             <li>
                                 <NavLink
                                     to={process.env.PUBLIC_URL + "/contact"}

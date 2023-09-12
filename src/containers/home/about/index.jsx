@@ -23,29 +23,34 @@ const HomeAboutContainer = () => {
                         <div className="about-content">
                             <SectionTitle
                                 classOption="title-section"
-                                subTitle="ABOUT US"
-                                title="Best 
-                                <span class='text-primary'>
-                                    Digital Agency
-                                </span>
+                                subTitle="À propos de nous"
+                                title="Votre Boussole <span class='text-primary'>
+                                    pour</span>  
                                 <br className='d-none d-xl-block' />
-                                in the Town"
+                             le Portage Parfait."
                             />
                             <span className="date-meta">
-                                Scince 2001 <span className="hr"></span>
+                                Depuis 2023 <span className="hr"></span>
                             </span>
                             <p className="mb-5">
-                                Pleasure rationally encounter consequences that
-                                are extremely painful. Nor again is there anyone
-                                who loves or pursues or desires to obtain
+                                Lillinker, votre partenaire dévoué pour
+                                simplifier le processus complexe de sélection
+                                d&apos;une société de portage en tant que
+                                freelance. En tant qu&apos;équipe de passionnés
+                                du numérique et du développement, nous avons
+                                créé Lillinker pour répondre aux besoins
+                                spécifiques des freelances comme vous, en
+                                cherchant à résoudre les défis majeurs qui se
+                                posent lors du choix d&apos;une société de
+                                portage.
                             </p>
                             <p className="high-light mb-8">
-                                Pleasure rationally encounter consequences that
-                                are extremely painful. Nor again is there
+                                Rejoignez-nous, façonnez l&apos;avenir du
+                                portage salarial ensemble !
                             </p>
                             <Button
                                 classOption="btn btn-lg btn-dark btn-hover-dark"
-                                text="Learn more"
+                                text="En savoir plus"
                                 path="/about"
                             />
                         </div>

@@ -18,14 +18,14 @@ const IconBoxContainer = ({ classOption }) => {
                     <div className="col-xl-6 col-lg-8 mx-auto mb-3 text-center">
                         <SectionTitle
                             classOption="title-section"
-                            subTitle="FEATURES"
-                            title="Nous sommes <span class='text-primary'> Différents</span> réside ..."
+                            subTitle="  "
+                            title="Ce qui nous <span class='text-primary'> Distingue</span> réside ..."
                             excerptClassOption="mb-10"
-                            excerpt="Dans notre capacité à vous offrir une meilleure visibilité au sein de la variété d'offres existantes sur le marché du portage salarial"
+                            excerpt="Sur notre capacité à vous offrir une meilleure visibilité parmi la multitude d'offres sur le marché du portage salarial."
                         />
                         <Button
                             classOption="btn btn-lg btn-dark btn-hover-dark"
-                            text="Get Started"
+                            text="Démarrer"
                             path="/about"
                         />
                     </div>

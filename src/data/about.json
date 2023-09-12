@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "icon": "./images/service/icon/1.png",
+    "smallIcon": "/images/service/icon/small/1.png",
+    "image": "./images/service/3.png",
+    "title": "À Propos de Nous",
+    "categories": [
+        "Digital Solution",
+        "Business Plan",
+        "Creative Strategy",
+        "Branding",
+        "Marketing Policy",
+        "Campaign & PR"
+    ],
+    "excerpt": "Pleasure rationally service are anyone who pursues",
+    "body": [
+        "<p class='text-primary fw-semi-bold mb-6'>👋 Bienvenue chez Lillinker, une solution créée par un indépendant, pour les indépendants, avec une mission unique en tête. ",
+        "<p class='mb-8'> Lillinker est né de l'expérience personnelle d'un indépendant, tout comme vous. Face aux défis de la recherche d'une société de portage transparente, sans frais cachés, et véritablement dévouée à accompagner les travailleurs indépendants même lorsque la mission se termine, nous avons ressenti la frustration et la nécessité d'une meilleure solution. Nous avons décidé de créer cette plateforme pour répondre à ces besoins. </p>",
+        "<div class='single-service-list'><p><i class='fa fa-angle-double-right'></i> Mise en Relation Simplifiée : Connectez avec plusieurs sociétés de portage via un seul canal.</p> <p><i class='fa fa-angle-double-right'></i>Comparaison Facile : Comparez les taux de gestion, la réputation et les avantages des sociétés de portage en toute simplicité.</p><p><i class='fa fa-angle-double-right'></i> Consultez les témoignages d'autres indépendants pour prendre des décisions éclairées.</p></div>",
+        "<div class='row sub-section-mb mt-7 mt-lg-0'><div class='col-xl-6 col-md-6'><div class='sub-section-title'><h3 class='title'>Pourquoi Lillinker ?</h3><p>Nous comprenons les difficultés que vous avez pu rencontrer dans votre quête de la société de portage idéale. Chez Lillinker, nous nous sommes engagés à simplifier ce processus et à vous offrir un guichet unique pour trouver la société de portage parfaite. Notre engagement envers la transparence, la sécurité des données et le soutien continu est au cœur de notre démarche.</p></div></div><div class='col-xl-5 col-md-6 text-center mt-7 mt-md-0 offset-xl-1'><img class='mt-xl-n3 ml-n2' src='/images/service/4.png' alt='service' /></div></div>",
+        "<div class='row sub-section-mb70'><div class='col-xl-6 col-md-5 order-last order-lg-first text-center'><img class='mr-n2 mt-7 mt-md-0' src='/images/service/5.png' alt='service' /></div><div class='col-xl-5 col-md-6 offset-xl-1'><div class='sub-section-title'><h3 class='title'>Notre Vision :</h3><p>Notre vision est double. Tout d'abord, nous aspirons à ramener les freelancers au cœur du paysage professionnel en leur offrant une plateforme où ils peuvent trouver des opportunités de portage salarial transparentes et stimulantes. De plus, nous cherchons à connecter ces freelancers avec des sociétés de portage innovantes et à challenger les sociétés de portage existantes à relever leurs standards et à améliorer leur soutien aux travailleurs indépendants. </p></div></div></div>"
+    ],
+    "bodyBottom": "Rejoignez-Nous Nous sommes ravis de vous accueillir sur Lillinker. Ensemble, nous pouvons simplifier votre recherche de société de portage, vous aider à prendre des décisions éclairées et à atteindre vos objectifs professionnels. Merci de faire partie de notre communauté. Votre succès est notre succès. Bienvenue chez Lillinker."
+}

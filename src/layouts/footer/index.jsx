@@ -21,8 +21,10 @@ const Footer = () => {
                                     image={`${process.env.PUBLIC_URL}/images/logo/logo-footer.png`}
                                 />
                                 <p>
-                                    Pleasure rationally encounter consequences
-                                    that extremely painful. Nor again is there
+                                    Rejoignez-Nous Nous sommes ravis de vous
+                                    accueillir sur Lillinker. Ensemble, nous
+                                    pouvons simplifier votre recherche de
+                                    société de portage.Bienvenue chez Lillinker.
                                 </p>
                                 <ul className="footer-social-links">
                                     <li>
@@ -71,8 +73,8 @@ const Footer = () => {
                                             About us
                                         </Link>
                                     </li>
-                                    <li>
-                                        <Link
+                                    {/*<li>
+                                         <Link
                                             className="footer-link"
                                             to={
                                                 process.env.PUBLIC_URL +
@@ -112,7 +114,7 @@ const Footer = () => {
                                         >
                                             Our Clients
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <Link
                                             className="footer-link"
@@ -129,7 +131,7 @@ const Footer = () => {
                         </div>
                         <div className="col-lg-2 col-sm-6 mb-7">
                             <div className="footer-widget">
-                                <h4 className="title">Services</h4>
+                                {/* <h4 className="title">Services</h4>
                                 <ul className="footer-menu">
                                     <li>
                                         <Link
@@ -197,7 +199,7 @@ const Footer = () => {
                                             Campaign &amp; PR
                                         </Link>
                                     </li>
-                                </ul>
+                                </ul> */}
                             </div>
                         </div>
                         <div className="col-lg-3 col-sm-6 mb-7">

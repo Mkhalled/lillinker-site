@@ -26,12 +26,12 @@ const HomePage = () => {
                     <BrandContainer />
                     <IconBoxContainer classOption="section-pb" />
                     <HomeAboutContainer />
-                    <ServiceListContainer />
+                    {/* <ServiceListContainer /> */}
                     <TestimonialContainer />
                     <FunFactContainer classOption="mt-10 mt-lg-0" />
-                    <TeamContainer classOption="section-pb" />
-                    <HomeBlog />
-                    <NewsletterArea />
+                    {/* <TeamContainer classOption="section-pb" /> */}
+                    {/* <HomeBlog />
+                    <NewsletterArea /> */}
                     <Footer />
                     <ScrollToTop />
                 </div>

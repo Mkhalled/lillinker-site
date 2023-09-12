@@ -4,7 +4,7 @@
             {
                 "id": 1,
                 "image": "./images/slider/slide2.png",
-                "title": "Solution complète <br />simplifie  <span class='text-decoration-underline'>Le choix</span><br /> de sociétés portage."
+                "title": "La Voie  <span class='text-decoration-underline'>Rapide</span><br /> vers la Société de Portage Parfaite.."
             }
         ]
     },
@@ -33,16 +33,16 @@
             {
                 "id": 1,
                 "className": "grid-item mb-7",
-                "icon": "./images/feature/logo/1.png",
-                "title": "Strong Security",
-                "excerpt": "LilLinker se distingue par son accent prononcé sur la sécurité et la confidentialité, garantissant que les données des freelancers restent protégées tout en comparant différentes agences de portage"
+                "icon": "./images/feature/logo/4.png",
+                "title": "Un canal unique et unifié",
+                "excerpt": "Simplifiez votre recherche de société de portage en recevant des simulations et des propositions de plusieurs sociétés via Lillinker."
             },
             {
                 "id": 2,
                 "className": "grid-item card-mt-75 mb-7",
                 "icon": "./images/feature/logo/2.png",
-                "title": "Clear Vision",
-                "excerpt": "LilLinker dissèque les tarifs des sociétés de portage salarial, vous offrant une vision claire et détaillée des frais proposés, que ce soit en termes de charges administratives, cotisations sociales, assurances ou autres coûts annexes."
+                "title": "Transparence totale ",
+                "excerpt": " Comparez les offres de manière transparente, avec des informations claires sur les taux de gestion et la réputation de chaque société de portage."
             },
             {
                 "id": 1,
@@ -57,24 +57,39 @@
         "testimonial": [
             {
                 "id": 1,
-                "excerpt": "Pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires maintain",
-                "authorThumb": "./images/testimonial/avater.png",
-                "name": "David Loyed",
-                "designation": "CEO, Omex"
+                "excerpt": "Bonjour à tous, Je cherche une boite pour faire une bonne optimisation pour un TJM de 700€ .Avez vous des pistes svp ? Merci",
+                "authorThumb": "./images/testimonial/2.png",
+                "name": "AO",
+                "designation": "Tech Lead"
             },
             {
                 "id": 2,
-                "excerpt": "Pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires maintain",
-                "authorThumb": "./images/testimonial/2.png",
-                "name": "John Loyed",
-                "designation": "CEO, Omex"
+                "excerpt": "Bonjour, j'ai l'impression qu'il y a trop de magouilles illégales dans beaucoup de boite de portage afin de récupérer un maximum de son CA , comment ne pas tomber dans le piège et savoir ce qu'est vraiment légal pour eviter d'avoir le fisc sur le dos? merci .",
+                "authorThumb": "./images/testimonial/avater.png",
+                "name": "DL",
+                "designation": "Ingénieur de développement"
             },
             {
                 "id": 3,
-                "excerpt": "Pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires maintain",
+                "excerpt": "👋🏼 bonjour les compatriotes, A la question qui revient souvent sur le choix de la société de portage, sans mentionner aucune société en paticulier, se méfier des sociétés de portage avec frais cachés. Vous savez, celles qui vous disent : 'Venez chez nous, nous ne prélevons que 2% sur votre salaire'... mais en réalité, ils ajoutent discrètement des frais supplémentaires et vous vous retrouvez avec 10% de frais. 🚨Donc un conseil : negocier le salaire net versé et non pas le % des frais",
                 "authorThumb": "./images/testimonial/avater.png",
-                "name": "David Loyed",
-                "designation": "CEO, Omex"
+                "name": "SQ",
+                "designation": "Chef de projet"
+            },
+
+            {
+                "id": 4,
+                "excerpt": "Bonjour, je viens de valider une mission et je cherche une boite de portage si vous pouvez me recommander les meilleurs mais aussi ceux qui sont sérieuse avec une bonne optimisation",
+                "authorThumb": "./images/testimonial/2.png",
+                "name": "AW",
+                "designation": "Dev FullStack"
+            },
+            {
+                "id": 5,
+                "excerpt": "Bonjour Bonsoir tt le monde, Je suis novice dans le domaine... Quelqu’un pourrais m’expliquer SVP le portage salariale ( ce qu’il faut négocier et faire attention, ce que ça requière, quel boîte à recommander, les frais à déduire, comment on calcule notre salaire... tout et n’importe qui peut servir ) ....",
+                "authorThumb": "./images/testimonial/avater.png",
+                "name": "SQ",
+                "designation": "Dev FullStack"
             }
         ]
     },

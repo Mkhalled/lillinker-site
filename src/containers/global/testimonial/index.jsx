@@ -56,14 +56,15 @@ const TestimonialContainer = () => {
                         <div className="testimonial-wrap">
                             <SectionTitle
                                 classOption="title-section"
-                                subTitle="TESTIMONIALS"
-                                title="Don’t Believe us Check <span class='text-primary'>Clients</span> word"
+                                subTitle=""
+                                title="Explorez les vrais <span class='text-primary'>Obstacles des independants,</span> pas seulement notre discours."
                             />
-                            <h5 className="happy-customer">
+
+                            {/* <h5 className="happy-customer">
                                 More over{" "}
                                 <span className="font-weight-bold">2500</span>{" "}
                                 happy customer
-                            </h5>
+                            </h5> */}
                         </div>
                         <div className="testimonial-carousel position-relative">
                             <Swiper {...swiperOption}>

@@ -11,13 +11,14 @@ const ContactContainer = () => {
                 <div className="row mb-n7">
                     <div className="col-xl-6 col-lg-6 mb-7">
                         <div className="contact-title-section">
-                            <h3 className="title">Get in touch</h3>
+                            <h3 className="title">Contactez-nous</h3>
                             <p>
-                                Top rated construction packages we pleasure
-                                rationally encounter
-                                <br className="d-none d-xl-block" />
+                                Nous sommes là pour vous aider et répondre à
+                                toutes vos questions, préoccupations ou
+                                commentaires. Votre opinion compte pour nous.
+                                {/* <br className="d-none d-xl-block" />
                                 consequences interesting who loves or pursue or
-                                desires
+                                desires */}
                             </p>
                         </div>
 

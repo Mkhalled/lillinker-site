@@ -19,7 +19,7 @@ const ContactForm = () => {
                         className="form-control"
                         id="name"
                         name="name"
-                        placeholder="Your Name*"
+                        placeholder="Votre Nom*"
                         ref={register({ required: "Name is required" })}
                     />
                     {errors.name && <p>{errors.name.message}</p>}
@@ -30,7 +30,7 @@ const ContactForm = () => {
                         className="form-control"
                         id="email"
                         name="email"
-                        placeholder="Your Email*"
+                        placeholder="votre Email*"
                         ref={register({
                             required: "Email is required",
                             pattern: {
@@ -63,7 +63,7 @@ const ContactForm = () => {
                         className="btn btn-dark btn-hover-dark"
                         data-complete-text="Well Done!"
                     >
-                        Send Message
+                        Envoyer un message
                     </button>
                 </div>
             </form>

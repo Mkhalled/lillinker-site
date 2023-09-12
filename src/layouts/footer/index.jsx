@@ -205,9 +205,7 @@ const Footer = () => {
                         <div className="col-lg-3 col-sm-6 mb-7">
                             <div className="footer-widget">
                                 <h4 className="title">Contact info</h4>
-                                <p>
-                                    245 Southern Street, Apt. 147 New York, USA
-                                </p>
+                                <p>Paris, France</p>
                                 <ul className="address">
                                     <li>
                                         <a
@@ -228,19 +226,19 @@ const Footer = () => {
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="mailto:info@example.com"
+                                            href="mailto:contact@lillinker.com"
                                         >
-                                            info@example.com
+                                            contact@lillinker.com
                                         </a>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <a
                                             className="address-link"
                                             href="mailto:info@example.com"
                                         >
                                             www.example.com
                                         </a>
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                         </div>
